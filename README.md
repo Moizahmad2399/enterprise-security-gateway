@@ -1,6 +1,14 @@
 # Enterprise Multi-Tenant Security Gateway (CSC337 Lab 05)
 
 Express + MongoDB gateway with hybrid auth (bcrypt local + GitHub OAuth 2.0), rotating refresh tokens, RBAC and OWASP hardening.
+## Screenshots:
+<img width="1907" height="887" alt="image" src="https://github.com/user-attachments/assets/3a618eb3-a208-4c8a-b8d7-db22ab18f993" />
+
+<img width="1917" height="897" alt="image" src="https://github.com/user-attachments/assets/14f20d36-d68b-4a69-b971-786dbaf6bc2c" />
+
+<img width="1910" height="902" alt="image" src="https://github.com/user-attachments/assets/03f611f9-5ca8-4912-b784-4e8961c54392" />
+
+
 
 **Live app:** https://YOUR-APP.onrender.com  
 **API base:** https://YOUR-APP.onrender.com/api/v1
