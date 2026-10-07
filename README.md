@@ -10,8 +10,8 @@ Express + MongoDB gateway with hybrid auth (bcrypt local + GitHub OAuth 2.0), ro
 
 
 
-**Live app:** https://YOUR-APP.onrender.com  
-**API base:** https://YOUR-APP.onrender.com/api/v1
+**Live app:** https://securegate-moiz.onrender.com/  
+**API base:** https://securegate-moiz.onrender.com/api/v1
 
 ## Test credentials
 | Role | Email | Password |
